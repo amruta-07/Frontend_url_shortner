@@ -1,5 +1,5 @@
 export const STRINGS = {
-  title: "URL Shortener by Shivam",
+  title: "URL Shortener By Amruta",
   shortenedUrlTitle: 'Your shortened URL',
   placeholder: 'https://shorturl.at/wEZ2Z',
   buttonCopyUrl: 'Copy URL',

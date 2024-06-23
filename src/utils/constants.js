@@ -1,18 +1,18 @@
 export const STRINGS = {
-    title: "URL Shortener by Shivam",
+    title: "URL Shortener By Amruta",
     placeholder: "Enter the link here",
     button: "Shorten URL",
     errorEnterUrl: "Please enter a URL",
     errorValidUrl: "Please enter a valid URL",
-    description: "ShortURL is a free tool to shorten URLs and generate short links. URL shortener allows to create a shortened link making it easy to share.",
+    description: "URL Shortener is a free tool to shorten URLs and generate short links. URL shortener allows to create a shortened link making it easy to share.",
     features: {
       easy: {
         title: "Easy",
-        description: "ShortURL is easy and fast, enter the long link to get your shortened link"
+        description: "URL Shortener is easy and fast, enter the long link to get your shortened link"
       },
       shortened: {
         title: "Shortened",
-        description: "Use any link, no matter what size, ShortURL always shortens"
+        description: "Use any link, no matter what size, URL Shortener always shortens"
       },
       secure: {
         title: "Secure",
